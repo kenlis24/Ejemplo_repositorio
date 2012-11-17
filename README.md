@@ -1,4 +1,4 @@
 Ejemplo_repositorio
 ===================
 
-PRUEBA
+PRUEBA DE CLASE
